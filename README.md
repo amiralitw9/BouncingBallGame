@@ -7,9 +7,9 @@ This project is part of the programming course at the Sharif University of Techn
 ## program language
 This program uses the C++ programming language and the SDL2 library.
 ## Installation and Setup
-1- extract bouncing_ball.rar
-2- install MinGW on your machine
-3- run main.cpp in final_project
+1. extract bouncing_ball.rar
+2. install MinGW on your machine
+3. run main.cpp in final_project
 ## Images
 ![first page](https://github.com/user-attachments/assets/0e350946-2e86-4e11-bfb8-36364317ffe8)
 ![main menu](https://github.com/user-attachments/assets/153243af-e4b3-44cc-988e-3a133517560f)
